@@ -1,0 +1,22 @@
+# 依赖（miniprogram-ci 等）
+node_modules/
+
+# 用户凭据（上传密钥 / AppSecret）—— 绝不进版本库
+.env
+*.key
+*.pem
+private.key
+
+# 运行临时产物（publish.js 生成）
+log/
+*.mp3.tmp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 系统
+.DS_Store
+Thumbs.db

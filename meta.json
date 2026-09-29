@@ -1,0 +1,15 @@
+{
+  "id": "xueren-wx-miniprogram-guide",
+  "name": "雪人老师·微信小程序开发引导",
+  "version": "1.0.4",
+  "author": "雪人",
+  "platforms": [
+    "WorkBuddy",
+    "ima",
+    "QClaw"
+  ],
+  "description": "全程用 WorkBuddy 引导用户从零开发并发布自己的微信小程序（不需要装微信开发者工具）：需求澄清 → 注册 AppID → 生成项目骨架 → 出预览二维码真机验证 → 接 WB 云后端 → 上传开发版本 + 引导手动提审 + 审核通过后手动点发布上线。配套 publish.js 一键 preview/upload/review/doctor 脚本与常见坑速查。",
+  "github": "https://github.com/JackieZheng/xueren-wx-miniprogram-guide",
+  "agent_created": true,
+  "updated_at": "2026-09-28"
+}
